@@ -11,7 +11,7 @@ Criação de uma página no Looker, chamada "DEV Empregabilidade Tabela", para v
 REQUISITOS OBRIGATÓRIOS:
 
 Extração dos dados a partir do Firebase (Thais) e armazenamento em um Datalake (Lucas);
-Armazenamento dos dados brutos no MongoDB (Thais);
+Armazenamento dos dados brutos no MongoDB e na GCP (Thais);
 Tratamento dos dados utilizando bibliotecas Pandas em linguagem Python (Lucas, Roberto, Iris);
 Criação de tabelas na Big Query, para  visualizações  específicas (Thais, Roberto); 
 Escolha de métricas e KPIs estratégicos (Thais);
