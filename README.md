@@ -1,5 +1,5 @@
 # ProjetoFinal_SoulCode
-O projeto final da SoulCode tinha por objetivo a solução real de um problema do cliente que demonstrasse as habilidades e conhecimentos adquiridas ao longo do curso. O Projeto foi em grupo (Equipe ONze) onde tentamos seguimentar as atividades conforme a competencia de cada integrante.  
+O projeto final da SoulCode tinha por objetivo a solução real de um problema do cliente que demonstrasse as habilidades e conhecimentos adquiridas ao longo do curso. O Projeto foi em grupo (Equipe ONze) onde tentamos segimentar as atividades conforme a competência de cada integrante.  
 
 ![Workflow Diagram Planning Whiteboard in Green Red Modern Professional Style (3)](https://github.com/thaisgulias/ProjetoFinal_SoulCode/assets/122481212/25da51da-8fcd-4632-9dda-ec76cbe4f0e2)
 
