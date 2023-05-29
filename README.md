@@ -5,14 +5,14 @@ O projeto final da SoulCode tinha por objetivo a solução real de um problema d
 
 
 DESAFIO:
-Automatização do processo de exportação de dados do Firebase para o BigQuery e criação das tabelas para visualizações específicas, integra-las com o Looker;/ 
+Automatização do processo de exportação de dados do Firebase para o BigQuery e criação das tabelas para visualizações específicas, integra-las com o Looker;
 Criação de uma página no Looker, chamada "DEV Empregabilidade Tabela", para visualização do índice de empregabilidade dos alunos após o término da exclusividade. 
 
 REQUISITOS OBRIGATÓRIOS:
 
-Extração dos dados a partir do Firebase  e armazenamento em um Datalake; /
-Armazenamento dos dados brutos no MongoDB e na GCP; /
-Tratamento dos dados utilizando bibliotecas Pandas em linguagem Python; /
-Criação de tabelas na Big Query, para  visualizações  específicas; /
-Escolha de métricas e KPIs estratégicos; /
+Extração dos dados a partir do Firebase  e armazenamento em um Datalake; 
+Armazenamento dos dados brutos no MongoDB e na GCP;
+Tratamento dos dados utilizando bibliotecas Pandas em linguagem Python;
+Criação de tabelas na Big Query, para  visualizações  específicas;
+Escolha de métricas e KPIs estratégicos;
 Sugestão de ações para campanhas, objetivos e segmentações a partir das informações coletadas.
