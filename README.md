@@ -16,3 +16,6 @@ Tratamento dos dados utilizando bibliotecas Pandas em linguagem Python;
 Criação de tabelas na Big Query, para  visualizações  específicas;
 Escolha de métricas e KPIs estratégicos;
 Sugestão de ações para campanhas, objetivos e segmentações a partir das informações coletadas.
+
+Apresentação:
+https://docs.google.com/presentation/d/1JFnxB60glMv2EoL_LBQWnEOdoYoFco899VViuqwd5FI/edit?usp=sharing
